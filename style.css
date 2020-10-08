@@ -50,3 +50,23 @@ nav a {
     text-decoration: underline;
     color: white;
 }
+
+section {
+    padding: 50px 150px;
+}
+
+#description {
+    background-color: #F1F1F1;
+    padding-top: 20px;
+}
+
+.description img {
+    float: left;
+    width: 450px;
+    height: 500px;
+    padding: 20px 20px 20px 0px;
+}
+
+.description-p2 {
+    clear: both;
+}
