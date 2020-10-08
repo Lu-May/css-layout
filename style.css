@@ -70,3 +70,10 @@ section {
 .description-p2 {
     clear: both;
 }
+
+.relationship img {
+    float: right;
+    width: 450px;
+    height: 500px;
+    padding: 20px;
+}
