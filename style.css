@@ -7,10 +7,8 @@ html {
     line-height: 1.5em;
 }
 
-ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+body {
+    position: absolute;
 }
 
 header {
@@ -22,4 +20,18 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: black;
+}
+
+header img {
+    margin-left: 15px;
+    margin-right: 155px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: white;
+}
+
+nav {
+    margin-right: 14px;
 }
